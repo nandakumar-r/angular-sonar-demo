@@ -8,4 +8,6 @@ import { Component } from "@angular/core";
 export class AppComponent {
   title = "angular-sonar-demo-app";
   var c=10;
+  if (4 === 4) {
+  }
 }
